@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieDatabase.API", "MovieD
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{73BB7293-D84A-4118-9DD8-53DD9277348B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieDatabase.API.Tests", "MovieDatabase.API.Tests\MovieDatabase.API.Tests.csproj", "{4A18BD10-A86E-480B-BB4F-211BC1C6D10C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{2DE2FF44-089B-4B6F-B357-28E824DCB41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DE2FF44-089B-4B6F-B357-28E824DCB41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DE2FF44-089B-4B6F-B357-28E824DCB41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A18BD10-A86E-480B-BB4F-211BC1C6D10C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A18BD10-A86E-480B-BB4F-211BC1C6D10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A18BD10-A86E-480B-BB4F-211BC1C6D10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A18BD10-A86E-480B-BB4F-211BC1C6D10C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2DE2FF44-089B-4B6F-B357-28E824DCB41E} = {73BB7293-D84A-4118-9DD8-53DD9277348B}
+		{4A18BD10-A86E-480B-BB4F-211BC1C6D10C} = {73BB7293-D84A-4118-9DD8-53DD9277348B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {495609AF-053B-4047-B3AF-4C6B534019C5}
