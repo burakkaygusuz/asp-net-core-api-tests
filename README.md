@@ -1,6 +1,6 @@
-# ASP NET CORE API Tests
+# ASP.NET Core API Tests
 
-This project demonstrates how to test the .NET Core Web API Applications by writing a functional test without using REST Client applications like Postman etc.
+This project demonstrates how to test the ASP.NET Core Web API Applications by writing a functional test without using REST Client applications like Postman etc.
 
 ## Requirements
 
